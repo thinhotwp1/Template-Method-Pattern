@@ -1,8 +1,8 @@
 Link github: https://github.com/thinhotwp1/Template-Method-Pattern.git
 Link bài viết chương 8: https://toihocdesignpattern.com/chuong-8-template-method-pattern.html
 
-Link drive: https://docs.google.com/document/d/1QqX6hDpdSq2PbrtLESYFID6SCeoCANpfeJmGpnwrMn8/edit?usp=sharing
-
+Link drive: [https://docs.google.com/document/d/1QqX6hDpdSq2PbrtLESYFID6SCeoCANpfeJmGpnwrMn8/edit?usp=sharing
+](https://docs.google.com/document/d/1O9LWWg95CJiRwu56dOzwsRqXD02J4K0ZAz5hKDYrdo8/edit?usp=drive_link)
 Tóm tắt 😀 
 1. Một “Template method” xác định các bước của một thuật toán, chuyển đến các lớp con để thực hiện các bước đó.
 2. Template method pattern cung cấp cho chúng ta một kỹ thuật quan trọng để tái sử dụng lại code.
